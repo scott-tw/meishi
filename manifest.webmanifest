@@ -1,0 +1,24 @@
+{
+ "name": "名片設計工坊",
+ "short_name": "名片工坊",
+ "description": "輸入資料、選台灣風格，產生可送印刷廠的正反面名片（含出血、向量 PDF）。",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#EDF0F2",
+ "theme_color": "#C8372D",
+ "lang": "zh-Hant-TW",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
